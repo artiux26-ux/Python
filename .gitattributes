@@ -1,4 +1,8 @@
 #
 * text=auto
 # prova e vedi
-a= 32
+numero1= 5
+bnumero2= 1
+somma= numero1 + numero2
+print (somma)
+# fine prova
