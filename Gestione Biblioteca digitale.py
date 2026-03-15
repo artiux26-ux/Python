@@ -90,7 +90,7 @@ if __name__ == "__main__":
 
     # Creazione libri
     libro1 = Libro("Il mondo invisibile", "Ignoto", 1932, 6)
-    libro2 = Libro("Il nome della rosa", "Umberto Eco", 1980, 1)
+    libro2 = Libro("La paranza dei bambini", "Roberto Saviano", 2016, 1)
     libro3 = Libro("Critica del giudizio", "Immanuel Kant", 1790, 7)
 
     # Creazione utenti
